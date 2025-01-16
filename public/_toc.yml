@@ -4,14 +4,14 @@
 format: jb-book
 root: index
 parts:
-  - caption: 基础阶段
+  - caption: 阶段一
     chapters:
-    - file: 基础阶段/notebooks
+    - file: 阶段一/notebooks
 
-  - caption: 进阶阶段
+  - caption: 阶段二
     chapters:
-    - file: 进阶阶段/notebooks
+    - file: 阶段二/notebooks
 
-  - caption: 高级阶段
+  - caption: 阶段三
     chapters:
-    - file: 高级阶段/notebooks
+    - file: 阶段三/notebooks
